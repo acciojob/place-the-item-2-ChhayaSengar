@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap: wrap;
+}
+.one{
+	background-color:red;
+	width:80px;
+	height:80px;
+}
+.two{
+	background-color:blue;
+	width:80px;
+	height:80px;
+}
+.three{
+	background-color:green;
+	width:80px;
+	height:80px;
+}
